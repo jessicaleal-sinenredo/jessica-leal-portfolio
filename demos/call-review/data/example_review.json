@@ -1,0 +1,11 @@
+{
+  "transcript": "Advisor: Thanks for calling Harbor Auto. How can I help? Customer: I need a brake inspection. Advisor: We can book an inspection tomorrow morning. Customer: Great, thank you.",
+  "evaluation": {
+    "criteria": [
+      {"name": "greeting", "score": 2, "max_score": 2, "evidence": "Thanks for calling Harbor Auto"},
+      {"name": "needs_discovery", "score": 2, "max_score": 2, "evidence": "How can I help?"},
+      {"name": "next_step", "score": 2, "max_score": 2, "evidence": "We can book an inspection tomorrow morning"}
+    ],
+    "coaching_note": "The advisor provided a clear next step."
+  }
+}

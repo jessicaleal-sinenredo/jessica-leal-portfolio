@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Local databases & secrets
+*.sqlite
+*.sqlite3
+.env
+.env.*
+!.env.example
+
+# Editor & OS
+.DS_Store
+.vscode/
+.idea/

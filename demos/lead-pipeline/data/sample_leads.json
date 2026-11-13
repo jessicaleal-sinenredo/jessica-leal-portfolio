@@ -1,0 +1,6 @@
+[
+  {"source":"google_ads","external_id":"ads-1001","submitted_at":"2026-10-12T09:15:00Z","name":"Jordan Ellis","phone":"(512) 555-0101","campaign":"brake-repair","message":"Need a brake inspection"},
+  {"source":"whatconverts","external_id":"wc-2001","submitted_at":"2026-10-12T09:18:00Z","name":"Jordan Ellis","phone":"+1 512 555 0101","campaign":"brake-repair","message":"Called about a quote"},
+  {"source":"local_services_ads","external_id":"lsa-3001","submitted_at":"2026-10-12T10:02:00Z","name":"Casey Rivera","phone":"512-555-0102","campaign":"local-service","message":"Oil change availability"},
+  {"source":"google_ads","external_id":"ads-1001","submitted_at":"2026-10-12T09:15:00Z","name":"Jordan Ellis","phone":"(512) 555-0101","campaign":"brake-repair","message":"Webhook retry of same lead"}
+]
